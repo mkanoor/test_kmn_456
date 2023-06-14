@@ -1,8 +1,9 @@
 # .github/workflows/release-pypi
 name: Publish to PyPi
 on:
-  release:
-    types: [created]
+  push:
+    tags:
+      - '*'
 
 jobs:
   pypi-publish:
