@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.0](https://github.com/mkanoor/test_kmn_456/compare/v0.1.4...v0.2.0) (2023-06-14)
+
+
+### Features
+
+* Add increment by 4 ([f452a3a](https://github.com/mkanoor/test_kmn_456/commit/f452a3a786feedb82d516f3258d006d3a3bb1ffb))
+
+
+### Bug Fixes
+
+* Fixed simple bug 1 ([9c4cc69](https://github.com/mkanoor/test_kmn_456/commit/9c4cc69600aa5ac630f7591ff8ecedd810ea7dd7))
+* Missing comment, increment by 4 instead of 40 ([4826d86](https://github.com/mkanoor/test_kmn_456/commit/4826d8677d238818fed36136cc564c3693590165))
+
 ## [0.1.4](https://github.com/mkanoor/test_kmn_456/compare/v0.1.3...v0.1.4) (2023-06-14)
 
 
