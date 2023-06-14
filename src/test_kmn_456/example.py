@@ -8,3 +8,7 @@ def add_one(number):
 # Missing comment2
 def add_two(number):
     return number + 2
+
+
+def add_three(number):
+    return number + 3
