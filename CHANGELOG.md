@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/mkanoor/test_kmn_456/compare/v0.3.0...v0.4.0) (2023-06-14)
+
+
+### Features
+
+* Increment by six feature added ([dafe60d](https://github.com/mkanoor/test_kmn_456/commit/dafe60d472f2f15ccd5b7f2f5d25a7693a5f9f74))
+
+
+### Bug Fixes
+
+* Increment by 5 not 50 ([1f70635](https://github.com/mkanoor/test_kmn_456/commit/1f70635901eb9573e057998397255b07eca8dfdf))
+
 ## [0.3.0](https://github.com/mkanoor/test_kmn_456/compare/v0.2.0...v0.3.0) (2023-06-14)
 
 
