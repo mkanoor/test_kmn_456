@@ -2,7 +2,7 @@
 
 
 def add_one(number):
-    return number + 1
+    return number + 10
 
 
 # Missing comment2
@@ -13,3 +13,7 @@ def add_two(number):
 # Missing comment34
 def add_three(number):
     return number + 3
+
+
+def add_four(number):
+    return number + 40
