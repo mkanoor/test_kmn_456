@@ -18,7 +18,6 @@ jobs:
         with:
           release-type: python
           package-name: test_kmn_456
-      - uses: ./.github/actions/publish_pypi.yml
       - name: Checkout source
         if: ${{ steps.release.outputs.releases_created }}
         uses: actions/checkout@v3
