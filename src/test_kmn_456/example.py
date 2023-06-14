@@ -15,5 +15,6 @@ def add_three(number):
     return number + 3
 
 
+# Missing comment
 def add_four(number):
-    return number + 40
+    return number + 4
