@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/mkanoor/test_kmn_456/compare/v0.1.2...v0.1.3) (2023-06-14)
+
+
+### Bug Fixes
+
+* added 3rd function ([e0e7892](https://github.com/mkanoor/test_kmn_456/commit/e0e78928637624044eca0dd5988bfb661ddaebbd))
+
 ## [0.1.2](https://github.com/mkanoor/test_kmn_456/compare/v0.1.1...v0.1.2) (2023-06-14)
 
 
