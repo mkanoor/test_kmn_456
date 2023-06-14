@@ -23,3 +23,8 @@ def add_four(number):
 # Missing comment
 def add_five(number):
     return number + 5
+
+
+# Missing comment
+def add_six(number):
+    return number + 6
