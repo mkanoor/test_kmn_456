@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/mkanoor/test_kmn_456/compare/v0.1.1...v0.1.2) (2023-06-14)
+
+
+### Bug Fixes
+
+* missing a comment in the second function ([4f60172](https://github.com/mkanoor/test_kmn_456/commit/4f601725f686d5041e1fa36c6063c3c4703c535d))
+
 ## [0.1.1](https://github.com/mkanoor/test_kmn_456/compare/v0.1.0...v0.1.1) (2023-06-14)
 
 
