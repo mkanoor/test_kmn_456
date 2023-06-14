@@ -18,3 +18,8 @@ def add_three(number):
 # Missing comment
 def add_four(number):
     return number + 4
+
+
+# Missing comment
+def add_five(number):
+    return number + 5
