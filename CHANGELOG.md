@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/mkanoor/test_kmn_456/compare/v0.2.0...v0.3.0) (2023-06-14)
+
+
+### Features
+
+* Add increment by 5 ([b846df9](https://github.com/mkanoor/test_kmn_456/commit/b846df97413490fab7a4ee692f99f54cc0e0faeb))
+
+
+### Bug Fixes
+
+* Increment should be by 50 not 5 ([4ba837d](https://github.com/mkanoor/test_kmn_456/commit/4ba837d56edaa7c72dcba64ec772a0c730b388c1))
+
 ## [0.2.0](https://github.com/mkanoor/test_kmn_456/compare/v0.1.4...v0.2.0) (2023-06-14)
 
 
